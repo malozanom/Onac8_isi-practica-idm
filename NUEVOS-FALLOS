@@ -7,3 +7,22 @@ Adaptando los tests de Bisiestos.java a esta implementación, no se encuentran f
 EMBOTELLADORA
 #############
 Adaptanto los tests de Embotelladora.java a esta implementación, no se encuentran fallos en el código.
+
+#############
+Números romanos
+#############
+Adaptanto los tests de RomanNumeral.java a esta implementación, se encuentran los siguientes fallos:
+no se tienen en cuenta estas reglas de los números romanos ni se especifica que no puedan darse esas combinaciones a la entrada:
+1- Los símbolos I, X, C y M se pueden repetir hasta tres veces.
+2- Los símbolos V, L y D no pueden repetirse.
+3- Los símbolos I, X y C se restan si están a la izquierda de otro mayor y solamente pueden anteponerse a los dos símbolos que le siguen en la sucesión.
+  I se resta de V y X
+  X se resta de L y C
+  C se resta de D y M
+  
+  la solución sería controlar esos tres casos y en caso de no cumplirse, elevar una excepción
+  
+#############
+black friday
+#############
+Adaptanto los tests de DescuentoBlackFriday.java a esta implementación, no se encuentran fallos en el código.
