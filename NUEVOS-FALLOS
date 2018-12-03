@@ -11,7 +11,7 @@ Adaptanto los tests de Embotelladora.java a esta implementación, no se encuentr
 #############
 Números romanos
 #############
-Adaptanto los tests de RomanNumeral.java a esta implementación, se encuentran los siguientes fallos:
+Adaptando los tests de RomanNumeral.java a esta implementación, se encuentran los siguientes fallos:
 no se tienen en cuenta estas reglas de los números romanos ni se especifica que no puedan darse esas combinaciones a la entrada:
 1- Los símbolos I, X, C y M se pueden repetir hasta tres veces.
 2- Los símbolos V, L y D no pueden repetirse.
@@ -25,4 +25,4 @@ no se tienen en cuenta estas reglas de los números romanos ni se especifica que
 #############
 black friday
 #############
-Adaptanto los tests de DescuentoBlackFriday.java a esta implementación, no se encuentran fallos en el código.
+Adaptando los tests de DescuentoBlackFriday.java a esta implementación, no se encuentran fallos en el código.
